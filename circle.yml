@@ -6,3 +6,4 @@ dependencies:
       yes |
       android update sdk --all --no-ui
       --filter android-23,tools,platform-tools,build-tools-23.0.2,extra-android-support,extra-android-m2repository
+
